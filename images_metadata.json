@@ -1,9 +1,2299 @@
 [
   {
-    "name": "scarlet witch",
-    "folder": "Personal",
-    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Personal/scarlet.png",
+    "name": "aladdin",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/aladdin.png?raw=true",
+    "size_in_bytes": 24892,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "alicia",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/alicia.png?raw=true",
+    "size_in_bytes": 29183,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ariel",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/ariel.png?raw=true",
+    "size_in_bytes": 30533,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "aurora",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/aurora.png?raw=true",
+    "size_in_bytes": 32749,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "baloo",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/baloo.png?raw=true",
+    "size_in_bytes": 27333,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bambi",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/bambi.png?raw=true",
+    "size_in_bytes": 28659,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bella",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/bella.png?raw=true",
+    "size_in_bytes": 32360,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bernard",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/bernard.png?raw=true",
+    "size_in_bytes": 30457,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bestia",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/bestia.png?raw=true",
+    "size_in_bytes": 26676,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "blancanieves",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/blancanieves.png?raw=true",
+    "size_in_bytes": 23370,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "campanilla",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/campanilla.png?raw=true",
+    "size_in_bytes": 37775,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "cenicienta",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/cenicienta.png?raw=true",
+    "size_in_bytes": 28330,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "chesire cat",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/chesire cat.png?raw=true",
+    "size_in_bytes": 33774,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "chip",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/chip.png?raw=true",
+    "size_in_bytes": 30068,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "copper",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/copper.png?raw=true",
+    "size_in_bytes": 24028,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "cruella de vil live action",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/cruella de vil live action.png?raw=true",
+    "size_in_bytes": 48232,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "cruella de vil",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/cruella de vil.png?raw=true",
+    "size_in_bytes": 34230,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "daisy duck",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/daisy duck.png?raw=true",
+    "size_in_bytes": 24068,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dale",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/dale.png?raw=true",
+    "size_in_bytes": 31154,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dama",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/dama.png?raw=true",
+    "size_in_bytes": 21827,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dewey",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/dewey.png?raw=true",
+    "size_in_bytes": 25378,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dr facilier",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/dr facilier.png?raw=true",
+    "size_in_bytes": 29689,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dumbo",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/dumbo.png?raw=true",
+    "size_in_bytes": 29977,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "eeyore",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/eeyore.png?raw=true",
+    "size_in_bytes": 29418,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "elena",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/elena.png?raw=true",
+    "size_in_bytes": 37296,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "fauna",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/fauna.png?raw=true",
+    "size_in_bytes": 25843,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "flor",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/flor.png?raw=true",
+    "size_in_bytes": 30951,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "flora",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/flora.png?raw=true",
+    "size_in_bytes": 27678,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "garfio",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/garfio.png?raw=true",
+    "size_in_bytes": 25570,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "gaston",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/gaston.png?raw=true",
+    "size_in_bytes": 37502,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "genio",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/genio.png?raw=true",
+    "size_in_bytes": 32435,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "goofy",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/goofy.png?raw=true",
+    "size_in_bytes": 25232,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hada madrina cenicienta",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/hada madrina cenicienta.png?raw=true",
+    "size_in_bytes": 30862,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hades",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/hades.png?raw=true",
+    "size_in_bytes": 29164,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "huey",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/huey.png?raw=true",
+    "size_in_bytes": 24265,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "jaffar",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/jaffar.png?raw=true",
+    "size_in_bytes": 25157,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "jazmin",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/jazmin.png?raw=true",
+    "size_in_bytes": 34599,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "jose carioca",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/jose carioca.png?raw=true",
+    "size_in_bytes": 21193,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "launchpad mcquack",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/launchpad mcquack.png?raw=true",
+    "size_in_bytes": 24934,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "louie",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/louie.png?raw=true",
+    "size_in_bytes": 23101,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "madre gothel",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/madre gothel.png?raw=true",
+    "size_in_bytes": 42939,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "malefica",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/malefica.png?raw=true",
+    "size_in_bytes": 31321,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "marie",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/marie.png?raw=true",
+    "size_in_bytes": 33284,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "merryweather",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/merryweather.png?raw=true",
+    "size_in_bytes": 28482,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "minnue mouse",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/minnue mouse.png?raw=true",
+    "size_in_bytes": 25225,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mowgli",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/mowgli.png?raw=true",
+    "size_in_bytes": 23848,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mulan",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/mulan.png?raw=true",
+    "size_in_bytes": 23999,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "pato donald",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/pato donald.png?raw=true",
+    "size_in_bytes": 24613,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "pepito grillo",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/pepito grillo.png?raw=true",
+    "size_in_bytes": 29568,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "peter pan",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/peter pan.png?raw=true",
+    "size_in_bytes": 30741,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "pinocho",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/pinocho.png?raw=true",
+    "size_in_bytes": 31059,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "pluto",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/pluto.png?raw=true",
+    "size_in_bytes": 19851,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "pocahontas",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/pocahontas.png?raw=true",
+    "size_in_bytes": 25222,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "principe encantado",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/principe encantado.png?raw=true",
+    "size_in_bytes": 24705,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "principe eric",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/principe eric.png?raw=true",
+    "size_in_bytes": 24045,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "rapunzel",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/rapunzel.png?raw=true",
+    "size_in_bytes": 34667,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "reina de corazones",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/reina de corazones.png?raw=true",
+    "size_in_bytes": 27234,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "reina malvada",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/reina malvada.png?raw=true",
+    "size_in_bytes": 34281,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "robin hodd",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/robin hodd.png?raw=true",
+    "size_in_bytes": 34254,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "scar",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/scar.png?raw=true",
+    "size_in_bytes": 26938,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "scrooge mcpato",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/scrooge mcpato.png?raw=true",
+    "size_in_bytes": 27009,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "tambor",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/tambor.png?raw=true",
+    "size_in_bytes": 34108,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "tiana",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/tiana.png?raw=true",
+    "size_in_bytes": 31121,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "tigger",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/tigger.png?raw=true",
+    "size_in_bytes": 34528,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "tod",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/tod.png?raw=true",
+    "size_in_bytes": 28190,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ursula",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/ursula.png?raw=true",
+    "size_in_bytes": 33648,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "vaiana moana",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/vaiana moana.png?raw=true",
+    "size_in_bytes": 36679,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "webby vanderquack",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/webby vanderquack.png?raw=true",
+    "size_in_bytes": 31490,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "wendy",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/wendy.png?raw=true",
+    "size_in_bytes": 26101,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "winnie the pooh",
+    "folder": "Disney",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney/winnie the pooh.png?raw=true",
+    "size_in_bytes": 21955,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "candace",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/candace.png?raw=true",
+    "size_in_bytes": 18514,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "carlos",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/carlos.png?raw=true",
+    "size_in_bytes": 41252,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "demi lovato mitchie",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/demi lovato mitchie.png?raw=true",
+    "size_in_bytes": 41653,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dr doofenshmirtz",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/dr doofenshmirtz.png?raw=true",
+    "size_in_bytes": 23653,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "evie",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/evie.png?raw=true",
+    "size_in_bytes": 38812,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "gabriela",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/gabriela.png?raw=true",
+    "size_in_bytes": 42120,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hannah montana",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/hannah montana.png?raw=true",
+    "size_in_bytes": 48758,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "kim impossible",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/kim impossible.png?raw=true",
+    "size_in_bytes": 19182,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "lizzie mcguire",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/lizzie mcguire.png?raw=true",
+    "size_in_bytes": 41162,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mal",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/mal.png?raw=true",
+    "size_in_bytes": 44344,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "nick jonas",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/nick jonas.png?raw=true",
+    "size_in_bytes": 33070,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "perry el onitorrinco",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/perry el onitorrinco.png?raw=true",
+    "size_in_bytes": 15277,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "pherb",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/pherb.png?raw=true",
+    "size_in_bytes": 19024,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "phineas",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/phineas.png?raw=true",
+    "size_in_bytes": 21700,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "raven",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/raven.png?raw=true",
+    "size_in_bytes": 40961,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "sharpay",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/sharpay.png?raw=true",
+    "size_in_bytes": 45249,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "troy bolton",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/troy bolton.png?raw=true",
+    "size_in_bytes": 33656,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "uma",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/uma.png?raw=true",
+    "size_in_bytes": 45033,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "zendaya undercover",
+    "folder": "Disney Channel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Disney Channel/zendaya undercover.png?raw=true",
+    "size_in_bytes": 45837,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "amaya owlette",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/amaya owlette.png?raw=true",
+    "size_in_bytes": 30713,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bandit",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/bandit.png?raw=true",
+    "size_in_bytes": 17777,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bingo catboy",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/bingo catboy.png?raw=true",
+    "size_in_bytes": 36775,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bingo",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/bingo.png?raw=true",
+    "size_in_bytes": 20909,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bluey",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/bluey.png?raw=true",
+    "size_in_bytes": 20153,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "catboy connor",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/catboy connor.png?raw=true",
+    "size_in_bytes": 36080,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "chilli",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/chilli.png?raw=true",
+    "size_in_bytes": 18141,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "gekko greg",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/gekko greg.png?raw=true",
+    "size_in_bytes": 34852,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "kion",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/kion.png?raw=true",
+    "size_in_bytes": 18592,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "rolly",
+    "folder": "Kids",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Kids/rolly.png?raw=true",
+    "size_in_bytes": 32921,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bart simpson",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/bart simpson.png?raw=true",
+    "size_in_bytes": 25183,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hibbert",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/hibbert.png?raw=true",
+    "size_in_bytes": 22511,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "homer simpson",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/homer simpson.png?raw=true",
+    "size_in_bytes": 24668,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "krusty",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/krusty.png?raw=true",
+    "size_in_bytes": 23757,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "lisa simpson",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/lisa simpson.png?raw=true",
+    "size_in_bytes": 26085,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "maggie simpson",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/maggie simpson.png?raw=true",
+    "size_in_bytes": 26757,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "marge simpson",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/marge simpson.png?raw=true",
+    "size_in_bytes": 27542,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ralph",
+    "folder": "Los Simpsons",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Los Simpsons/ralph.png?raw=true",
+    "size_in_bytes": 22111,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "antman",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/antman.png?raw=true",
+    "size_in_bytes": 45477,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "black panther",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/black panther.png?raw=true",
+    "size_in_bytes": 40787,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bruja escarlata",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/bruja escarlata.png?raw=true",
+    "size_in_bytes": 52169,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "capitan america falcon",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/capitan america falcon.png?raw=true",
+    "size_in_bytes": 38269,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "capitana carter",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/capitana carter.png?raw=true",
+    "size_in_bytes": 33271,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "daredevil",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/daredevil.png?raw=true",
+    "size_in_bytes": 41186,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "deadpool",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/deadpool.png?raw=true",
+    "size_in_bytes": 38176,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "doctor strange",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/doctor strange.png?raw=true",
+    "size_in_bytes": 38108,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dogpool",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/dogpool.png?raw=true",
+    "size_in_bytes": 43064,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "falcon",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/falcon.png?raw=true",
+    "size_in_bytes": 40029,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "groot",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/groot.png?raw=true",
+    "size_in_bytes": 45061,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hulk",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/hulk.png?raw=true",
+    "size_in_bytes": 51475,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ikaris",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/ikaris.png?raw=true",
+    "size_in_bytes": 43536,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "iron man",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/iron man.png?raw=true",
+    "size_in_bytes": 36906,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "kate bishop",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/kate bishop.png?raw=true",
+    "size_in_bytes": 45055,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "kingpink",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/kingpink.png?raw=true",
+    "size_in_bytes": 33398,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "la avispa",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/la avispa.png?raw=true",
+    "size_in_bytes": 41022,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "loki tva",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/loki tva.png?raw=true",
+    "size_in_bytes": 44698,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "moon knight",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/moon knight.png?raw=true",
+    "size_in_bytes": 47666,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ms marvel",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/ms marvel.png?raw=true",
+    "size_in_bytes": 41672,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "observador",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/observador.png?raw=true",
+    "size_in_bytes": 26377,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ojo de halcón",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/ojo de halcón.png?raw=true",
+    "size_in_bytes": 40204,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "rocket",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/rocket.png?raw=true",
+    "size_in_bytes": 50441,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "sersei",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/sersei.png?raw=true",
+    "size_in_bytes": 41096,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "shan chi",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/shan chi.png?raw=true",
+    "size_in_bytes": 38297,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "sharon carter",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/sharon carter.png?raw=true",
+    "size_in_bytes": 45672,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "she hulk",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/she hulk.png?raw=true",
+    "size_in_bytes": 46206,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "soldado de invierno",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/soldado de invierno.png?raw=true",
+    "size_in_bytes": 41281,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "thanos",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/thanos.png?raw=true",
+    "size_in_bytes": 42118,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "thor",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/thor.png?raw=true",
+    "size_in_bytes": 44898,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "varon zemo",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/varon zemo.png?raw=true",
+    "size_in_bytes": 46757,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "vision",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/vision.png?raw=true",
+    "size_in_bytes": 37866,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "viuda negra",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/viuda negra.png?raw=true",
     "size_in_bytes": 44623,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "wanda",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/wanda.png?raw=true",
+    "size_in_bytes": 46769,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "wolverine",
+    "folder": "Marvel",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Marvel/wolverine.png?raw=true",
+    "size_in_bytes": 43235,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "scarlet",
+    "folder": "Personal",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Personal/scarlet.png?raw=true",
+    "size_in_bytes": 5198,
+    "dimensions": {
+      "width": 224,
+      "height": 225
+    }
+  },
+  {
+    "name": "alegria",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/alegria.png?raw=true",
+    "size_in_bytes": 36740,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ansiedad",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/ansiedad.png?raw=true",
+    "size_in_bytes": 39691,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "arlo",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/arlo.png?raw=true",
+    "size_in_bytes": 27529,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "asco",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/asco.png?raw=true",
+    "size_in_bytes": 37555,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "barlfightfoot",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/barlfightfoot.png?raw=true",
+    "size_in_bytes": 41064,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "boo",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/boo.png?raw=true",
+    "size_in_bytes": 34886,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "buck",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/buck.png?raw=true",
+    "size_in_bytes": 36117,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "buzz lightyear",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/buzz lightyear.png?raw=true",
+    "size_in_bytes": 31781,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "carl drickssen",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/carl drickssen.png?raw=true",
+    "size_in_bytes": 39215,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dante",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/dante.png?raw=true",
+    "size_in_bytes": 40880,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dash",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/dash.png?raw=true",
+    "size_in_bytes": 33368,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "diego",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/diego.png?raw=true",
+    "size_in_bytes": 41655,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dori",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/dori.png?raw=true",
+    "size_in_bytes": 29021,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "dug",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/dug.png?raw=true",
+    "size_in_bytes": 40542,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "edna",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/edna.png?raw=true",
+    "size_in_bytes": 37491,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ellie",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/ellie.png?raw=true",
+    "size_in_bytes": 44648,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ember",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/ember.png?raw=true",
+    "size_in_bytes": 34829,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "enfado",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/enfado.png?raw=true",
+    "size_in_bytes": 40270,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ennul",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/ennul.png?raw=true",
+    "size_in_bytes": 41136,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "envy",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/envy.png?raw=true",
+    "size_in_bytes": 38641,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "esemble",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/esemble.png?raw=true",
+    "size_in_bytes": 32992,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "flik",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/flik.png?raw=true",
+    "size_in_bytes": 29784,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "forky",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/forky.png?raw=true",
+    "size_in_bytes": 28502,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "frozone",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/frozone.png?raw=true",
+    "size_in_bytes": 25435,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "jack-jack",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/jack-jack.png?raw=true",
+    "size_in_bytes": 28857,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "jessie",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/jessie.png?raw=true",
+    "size_in_bytes": 37039,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "joe",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/joe.png?raw=true",
+    "size_in_bytes": 32708,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "lica",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/lica.png?raw=true",
+    "size_in_bytes": 34272,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "luca",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/luca.png?raw=true",
+    "size_in_bytes": 39923,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mailee lee",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/mailee lee.png?raw=true",
+    "size_in_bytes": 42872,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "manny",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/manny.png?raw=true",
+    "size_in_bytes": 53191,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mater",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/mater.png?raw=true",
+    "size_in_bytes": 47825,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "merida",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/merida.png?raw=true",
+    "size_in_bytes": 49741,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "miedo",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/miedo.png?raw=true",
+    "size_in_bytes": 31754,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "miguel",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/miguel.png?raw=true",
+    "size_in_bytes": 37056,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mike wazowski",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/mike wazowski.png?raw=true",
+    "size_in_bytes": 35788,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "mr increible",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/mr increible.png?raw=true",
+    "size_in_bytes": 27057,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ms elastic",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/ms elastic.png?raw=true",
+    "size_in_bytes": 31176,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "nemo",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/nemo.png?raw=true",
+    "size_in_bytes": 37982,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "randall",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/randall.png?raw=true",
+    "size_in_bytes": 41323,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ratattouille",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/ratattouille.png?raw=true",
+    "size_in_bytes": 43189,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "rayo mcqueen",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/rayo mcqueen.png?raw=true",
+    "size_in_bytes": 28799,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "russel",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/russel.png?raw=true",
+    "size_in_bytes": 37862,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "scrat",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/scrat.png?raw=true",
+    "size_in_bytes": 44819,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "sid",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/sid.png?raw=true",
+    "size_in_bytes": 37703,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "sullivan",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/sullivan.png?raw=true",
+    "size_in_bytes": 48841,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "tfoot",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/tfoot.png?raw=true",
+    "size_in_bytes": 39065,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "tristeza",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/tristeza.png?raw=true",
+    "size_in_bytes": 47151,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "verguenza",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/verguenza.png?raw=true",
+    "size_in_bytes": 43404,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "violet",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/violet.png?raw=true",
+    "size_in_bytes": 29114,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "wade",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/wade.png?raw=true",
+    "size_in_bytes": 32897,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "wall-e",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/wall-e.png?raw=true",
+    "size_in_bytes": 38167,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "woody",
+    "folder": "Pixar",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Pixar/woody.png?raw=true",
+    "size_in_bytes": 32889,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "332nd company",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/332nd company.png?raw=true",
+    "size_in_bytes": 36385,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ashoka",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/ashoka.png?raw=true",
+    "size_in_bytes": 39164,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bb-8",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/bb-8.png?raw=true",
+    "size_in_bytes": 38324,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "bo-katankryze",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/bo-katankryze.png?raw=true",
+    "size_in_bytes": 39760,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "boba fett",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/boba fett.png?raw=true",
+    "size_in_bytes": 37608,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "c-3po",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/c-3po.png?raw=true",
+    "size_in_bytes": 36729,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "capitan rex",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/capitan rex.png?raw=true",
+    "size_in_bytes": 41118,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "cassian andor",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/cassian andor.png?raw=true",
+    "size_in_bytes": 42710,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "chewbacca",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/chewbacca.png?raw=true",
+    "size_in_bytes": 47473,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "chopper",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/chopper.png?raw=true",
+    "size_in_bytes": 37060,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "d-o",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/d-o.png?raw=true",
+    "size_in_bytes": 37938,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "darth maul",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/darth maul.png?raw=true",
+    "size_in_bytes": 35242,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "darth vader",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/darth vader.png?raw=true",
+    "size_in_bytes": 40013,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "ezra bridger",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/ezra bridger.png?raw=true",
+    "size_in_bytes": 28164,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "fennec shand",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/fennec shand.png?raw=true",
+    "size_in_bytes": 34067,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "grogu baby yoda",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/grogu baby yoda.png?raw=true",
+    "size_in_bytes": 46250,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "hunder",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/hunder.png?raw=true",
+    "size_in_bytes": 35969,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "huyang",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/huyang.png?raw=true",
+    "size_in_bytes": 35518,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "jabba the hutt",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/jabba the hutt.png?raw=true",
+    "size_in_bytes": 41140,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "kai brightstar",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/kai brightstar.png?raw=true",
+    "size_in_bytes": 31223,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "kylo ren",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/kylo ren.png?raw=true",
+    "size_in_bytes": 40998,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "loth-cats",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/loth-cats.png?raw=true",
+    "size_in_bytes": 42591,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "lys solay",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/lys solay.png?raw=true",
+    "size_in_bytes": 34961,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "nash durango",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/nash durango.png?raw=true",
+    "size_in_bytes": 34749,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "nubs",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/nubs.png?raw=true",
+    "size_in_bytes": 37195,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "obi-wan kenobi",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/obi-wan kenobi.png?raw=true",
+    "size_in_bytes": 45879,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "omega",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/omega.png?raw=true",
+    "size_in_bytes": 32036,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "porgs",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/porgs.png?raw=true",
+    "size_in_bytes": 44992,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "r2-d2",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/r2-d2.png?raw=true",
+    "size_in_bytes": 37266,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "reva",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/reva.png?raw=true",
+    "size_in_bytes": 38264,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "sabine wren",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/sabine wren.png?raw=true",
+    "size_in_bytes": 33930,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "soldado imperial",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/soldado imperial.png?raw=true",
+    "size_in_bytes": 36205,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "the mandalorian",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/the mandalorian.png?raw=true",
+    "size_in_bytes": 39349,
+    "dimensions": {
+      "width": 300,
+      "height": 300
+    }
+  },
+  {
+    "name": "yoda",
+    "folder": "Star Wars",
+    "url": "https://raw.githubusercontent.com/irubenboy/my-jf-avatar-images/refs/heads/master/images/Star Wars/yoda.png?raw=true",
+    "size_in_bytes": 41434,
     "dimensions": {
       "width": 300,
       "height": 300
